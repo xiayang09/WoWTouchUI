@@ -1,0 +1,10 @@
+## Interface: 120100
+## Title: WoWTouchUI
+## Notes: Touch friendly skill buttons
+## Author: WoWTouchUI
+## Version: 0.1.0
+## SavedVariables: WoWTouchUI_AccountDB
+## SavedVariablesPerCharacter: WoWTouchUI_CharacterDB
+
+WoWTouchUI.lua
+UnitFrames.lua
